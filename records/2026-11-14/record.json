@@ -1,0 +1,103 @@
+{
+  "archive_id": "manuscripts-2026-11-14",
+  "published_at_utc": "2026-11-14T02:54:20Z",
+  "published_at_asia_shanghai": "2026-11-14T10:54:20+08:00",
+  "timestamp_source": "GitHub Releases API published_at",
+  "release_url": "https://github.com/DXY-ukn/dxy-ukn.github.io/releases/tag/manuscripts-2026-11-14",
+  "release_api_url": "https://api.github.com/repos/DXY-ukn/dxy-ukn.github.io/releases/444967578",
+  "immutable": true,
+  "asset_commit": "36b5e3dd0a419120a6603d14f1a80a3da58c93bf",
+  "asset_commit_url": "https://github.com/DXY-ukn/dxy-ukn.github.io/commit/36b5e3dd0a419120a6603d14f1a80a3da58c93bf",
+  "articles": [
+    {
+      "key": "b2_bailey",
+      "id": "P5",
+      "title": "A symmetrized B₂ Bailey lemma and Rogers–Ramanujan-type identities",
+      "title_html": "A symmetrized B<sub>2</sub> Bailey lemma and Rogers–Ramanujan-type identities",
+      "authors": [
+        "Xiangyu Ding",
+        "Lisa Hui Sun"
+      ],
+      "authors_short": "X. Ding and L. H. Sun",
+      "status": "preprint",
+      "filename": "symmetrized-b2-bailey-2026-11-14.pdf",
+      "pages": 32,
+      "bytes": 425950,
+      "sha256": "14e4c494df27dd11ad64f7ce6f7e904c11b2ec12758295d1f6048b3a36502004",
+      "website_path": "papers/symmetrized-b2-bailey-2026-11-14.pdf"
+    },
+    {
+      "key": "cmpp_d3",
+      "id": "P7",
+      "title": "A B₂ Bailey lemma and D₃⁽²⁾ CMPP identities",
+      "title_html": "A B<sub>2</sub> Bailey lemma and D<sub>3</sub><sup>(2)</sup> CMPP identities",
+      "authors": [
+        "Xiangyu Ding",
+        "Lisa Hui Sun"
+      ],
+      "authors_short": "X. Ding and L. H. Sun",
+      "status": "preprint",
+      "filename": "b2-d3-cmpp-2026-11-14.pdf",
+      "pages": 33,
+      "bytes": 621454,
+      "sha256": "d887a369d62dffafa2ad8a3043cb10c6defcea1c55066a425d003b5543acc0e8",
+      "website_path": "papers/b2-d3-cmpp-2026-11-14.pdf"
+    },
+    {
+      "key": "cmpp_pbw",
+      "id": "P8",
+      "title": "A Lie-theoretic approach to the type Cₙ⁽¹⁾ partitions of Capparelli, Meurman, Primc and Primc",
+      "title_html": "A Lie-theoretic approach to the type C<sub>n</sub><sup>(1)</sup> partitions of Capparelli, Meurman, Primc and Primc",
+      "authors": [
+        "Xiangyu Ding"
+      ],
+      "authors_short": "X. Ding",
+      "status": "submitted",
+      "filename": "cmpp-pbw-type-c-2026-11-14.pdf",
+      "arxiv_id": "2611.10654",
+      "arxiv_url": "https://arxiv.org/abs/2611.10654",
+      "arxiv_v1_submitted_at": "2026-11-07T10:57:44Z",
+      "pages": 49,
+      "bytes": 721920,
+      "sha256": "557596476b0313dd35a44bc8ba794eb1bbb7303f3e0cb5f0d60b14059dd6ec8c",
+      "website_path": "papers/cmpp-pbw-type-c-2026-11-14.pdf"
+    }
+  ],
+  "assets": [
+    {
+      "name": "b2-d3-cmpp-2026-11-14.pdf",
+      "id": 746065196,
+      "digest": "sha256:d887a369d62dffafa2ad8a3043cb10c6defcea1c55066a425d003b5543acc0e8",
+      "size": 621454,
+      "browser_download_url": "https://github.com/DXY-ukn/dxy-ukn.github.io/releases/download/manuscripts-2026-11-14/b2-d3-cmpp-2026-11-14.pdf"
+    },
+    {
+      "name": "cmpp-pbw-type-c-2026-11-14.pdf",
+      "id": 746065180,
+      "digest": "sha256:557596476b0313dd35a44bc8ba794eb1bbb7303f3e0cb5f0d60b14059dd6ec8c",
+      "size": 721920,
+      "browser_download_url": "https://github.com/DXY-ukn/dxy-ukn.github.io/releases/download/manuscripts-2026-11-14/cmpp-pbw-type-c-2026-11-14.pdf"
+    },
+    {
+      "name": "manifest.json",
+      "id": 746065194,
+      "digest": "sha256:758f45aa04e0d29ac51f1154171845b7ae4b79a1770e3f36fd253c57e269b4ab",
+      "size": 2381,
+      "browser_download_url": "https://github.com/DXY-ukn/dxy-ukn.github.io/releases/download/manuscripts-2026-11-14/manifest.json"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "id": 746065193,
+      "digest": "sha256:97798306f779a22be5a0be5598055e028a097301f3465f7e314d8456b0ad20b4",
+      "size": 292,
+      "browser_download_url": "https://github.com/DXY-ukn/dxy-ukn.github.io/releases/download/manuscripts-2026-11-14/SHA256SUMS.txt"
+    },
+    {
+      "name": "symmetrized-b2-bailey-2026-11-14.pdf",
+      "id": 746065191,
+      "digest": "sha256:14e4c494df27dd11ad64f7ce6f7e904c11b2ec12758295d1f6048b3a36502004",
+      "size": 425950,
+      "browser_download_url": "https://github.com/DXY-ukn/dxy-ukn.github.io/releases/download/manuscripts-2026-11-14/symmetrized-b2-bailey-2026-11-14.pdf"
+    }
+  ]
+}
