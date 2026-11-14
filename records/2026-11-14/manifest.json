@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "archive_id": "manuscripts-2026-11-14",
+  "record_type": "author-supplied manuscript snapshots",
+  "articles": [
+    {
+      "key": "b2_bailey",
+      "id": "P5",
+      "title": "A symmetrized B₂ Bailey lemma and Rogers–Ramanujan-type identities",
+      "title_html": "A symmetrized B<sub>2</sub> Bailey lemma and Rogers–Ramanujan-type identities",
+      "authors": [
+        "Xiangyu Ding",
+        "Lisa Hui Sun"
+      ],
+      "authors_short": "X. Ding and L. H. Sun",
+      "status": "preprint",
+      "filename": "symmetrized-b2-bailey-2026-11-14.pdf",
+      "pages": 32,
+      "bytes": 425950,
+      "sha256": "14e4c494df27dd11ad64f7ce6f7e904c11b2ec12758295d1f6048b3a36502004",
+      "website_path": "papers/symmetrized-b2-bailey-2026-11-14.pdf"
+    },
+    {
+      "key": "cmpp_d3",
+      "id": "P7",
+      "title": "A B₂ Bailey lemma and D₃⁽²⁾ CMPP identities",
+      "title_html": "A B<sub>2</sub> Bailey lemma and D<sub>3</sub><sup>(2)</sup> CMPP identities",
+      "authors": [
+        "Xiangyu Ding",
+        "Lisa Hui Sun"
+      ],
+      "authors_short": "X. Ding and L. H. Sun",
+      "status": "preprint",
+      "filename": "b2-d3-cmpp-2026-11-14.pdf",
+      "pages": 33,
+      "bytes": 621454,
+      "sha256": "d887a369d62dffafa2ad8a3043cb10c6defcea1c55066a425d003b5543acc0e8",
+      "website_path": "papers/b2-d3-cmpp-2026-11-14.pdf"
+    },
+    {
+      "key": "cmpp_pbw",
+      "id": "P8",
+      "title": "A Lie-theoretic approach to the type Cₙ⁽¹⁾ partitions of Capparelli, Meurman, Primc and Primc",
+      "title_html": "A Lie-theoretic approach to the type C<sub>n</sub><sup>(1)</sup> partitions of Capparelli, Meurman, Primc and Primc",
+      "authors": [
+        "Xiangyu Ding"
+      ],
+      "authors_short": "X. Ding",
+      "status": "submitted",
+      "filename": "cmpp-pbw-type-c-2026-11-14.pdf",
+      "arxiv_id": "2611.10654",
+      "arxiv_url": "https://arxiv.org/abs/2611.10654",
+      "arxiv_v1_submitted_at": "2026-11-07T10:57:44Z",
+      "pages": 49,
+      "bytes": 721920,
+      "sha256": "557596476b0313dd35a44bc8ba794eb1bbb7303f3e0cb5f0d60b14059dd6ec8c",
+      "website_path": "papers/cmpp-pbw-type-c-2026-11-14.pdf"
+    }
+  ],
+  "timestamp_note": "The archive date in filenames identifies this snapshot set. The actual platform publication time is recorded separately in GitHub published_at."
+}
